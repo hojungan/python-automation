@@ -1,6 +1,5 @@
 import sys
 import os
-import time
 from github import Github
 from dotenv import load_dotenv
 
